@@ -8,4 +8,4 @@ transformers==4.37.2
 
 datasets==2.16.1
 
-视频课程:制作中.
+视频课程:https://www.bilibili.com/video/BV1mJ4m1e7VJ
